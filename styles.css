@@ -1,0 +1,21 @@
+header{
+    background: linear-gradient(rgb(161, 42, 42),rgb(180, 5, 180));
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20%;
+}
+
+nav{
+    background: linear-gradient(rgb(194, 40, 40), rgb(229, 255, 0));
+}
+
+    footer{
+        background: linear-gradient(rgb(22, 148, 22), rgb(255, 255, 255));
+    border-radius: 15%;
+    text-align: center;
+    }
+
+    img{
+        border-radius: 45%;
+    }
